@@ -24,9 +24,9 @@ author:
   avatar: "myLogo.png" #"profile.png"
   name: "Jinguo Sun"
   pronouns: # example: "she/her"
-  bio: "Dr., currently aPostdoc at Lund University, Division of Combustion Physics."
+  bio: "Postdoc at Division of Combustion Physics, Lund University."
   location: "Earth, Solar System"
-  employer: "Division of Combustion Physics, Lund University"
+  employer: "Combustion Physics, Lund University"
   uri: # URL
   email: "jinguo.sun@fysik.lu.se"
 
@@ -36,14 +36,14 @@ author:
   impactstory: # URL
   orcid: "https://orcid.org/0000-0001-7932-4670"
   semantic: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate: "https://www.researchgate.net/profile/Jinguo_Sun"
 
   # Repositories and software development
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: # "academicpages"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -57,7 +57,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "https://www.linkedin.com/in/jinguo-sun-62443a182/" # Username
   mastodon: # URL
   medium: # URL
   pinterest: # Username
