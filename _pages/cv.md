@@ -17,7 +17,7 @@ redirect_from:
 
 # Work experience
 
-- Winter 2022: Postdoc researcher
+- Winter 2022 -- present: Postdoctoral researcher
 
   - Lund University
   - Duties includes: Scientific research in plasma and combustion studies using advanced laser diagnostics
