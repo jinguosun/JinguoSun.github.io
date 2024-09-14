@@ -17,22 +17,11 @@ redirect_from:
 
 # Work experience
 
-- Winter 2022: Academic Pages Collaborator
+- Winter 2022: Postdoc researcher
 
-  - Github University
-  - Duties includes: Updates and improvements to template
-  - Supervisor: The Users
-
-- Fall 2015: Research Assistant
-
-  - Github University
-  - Duties included: Merging pull requests
-  - Supervisor: Professor Hub
-
-- Summer 2015: Research Assistant
-  - Github University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
+  - Lund University
+  - Duties includes: Scientific research in plasma and combustion studies using advanced laser diagnostics
+  - Mentor: Docent Andreas Ehn
 
 # Skills
 
