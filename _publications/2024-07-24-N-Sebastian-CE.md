@@ -2,7 +2,7 @@
 title: "Holistic analysis of a gliding arc discharge using 3D tomography and single-shot fluorescence lifetime imaging"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-24-Nil-Seb-CE
+permalink: /publication/2024-07-24-N-Sebastian-CE
 excerpt: # "This paper is about the number 1. The number 2 is left for future work."
 date: 2024-07-24
 venue: "Communications Engineering"

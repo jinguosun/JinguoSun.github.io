@@ -2,7 +2,7 @@
 title: "In situ ambient pressure photoelectron spectroscopy study of the plasma-surface interaction on metal foils"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-25-Sam-Tay-Lanumuir
+permalink: /publication/2024-07-25-S-Taylor-Lanumuir
 excerpt: # "This paper is about the number 1. The number 2 is left for future work."
 date: 2024-07-25
 venue: "Proceedings of the Combustion Institute"
