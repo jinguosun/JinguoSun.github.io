@@ -21,8 +21,8 @@ repository: "jinguosun/jinguosun.github.io" # GitHub username/repo-name e.g. "mm
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
-  name: "Your Sidebar Name"
+  avatar: "myLogo.png"
+  name: "Jinguo Sun"
   pronouns: # example: "she/her"
   bio: "Postdoc at Division of Combustion physics, Lund University, Sweden"
   location: "Earth, Solar System"
