@@ -15,26 +15,27 @@ redirect_from:
 - Visiting Ph.D, Institute for Combustion Technology, RWTH Aachen University, 2020-2021
 - B.S. Thermal Engineering, Tsinghua University, 2013-2017
 
-# Work experience
+# Research experience
 
 - Winter 2022 -- present: Postdoctoral researcher
 
-  - Lund University
+  - Division of Combustion Physics, Lund University, Sweden
   - Duties includes: Scientific research in plasma and combustion studies using advanced laser diagnostics
   - Mentor: Docent Andreas Ehn
 
 # Skills
 
 - Chinese (native), English (fluent)
-- Combustion and Plasma Facility Design
+- Design of combustion and plasma facilities
 - Optical diagnostics
   - Laser-induced fluorescence (LIF)
   - Tunable diode laser absorption spcetrascopy (TDLAS)
+  - Optical emission spectroscopy (OES)
   - Rayleigh scattering (RS)
   - <i>etc.</i>
 - Coding
-  - OpenFOAM, Chemkin, Cantera
   - Python, MATLAB, C++
+  - Combustion and plasma-related softwares: OpenFOAM, Chemkin, Cantera, COMSOL
   - <i>etc.</i>
 
 # Publications
