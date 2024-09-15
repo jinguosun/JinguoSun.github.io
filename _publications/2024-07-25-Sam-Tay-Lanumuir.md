@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-07-25-Sam-Tay-Lanumuir
 excerpt: # "This paper is about the number 1. The number 2 is left for future work."
-date: 2024-07-26
+date: 2024-07-25
 venue: "Proceedings of the Combustion Institute"
 slidesurl: # "http://academicpages.github.io/files/slides1.pdf"
 paperurl: "https://doi.org/10.1021/acs.langmuir.4c01102" # 'http://academicpages.github.io/files/paper1.pdf'
