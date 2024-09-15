@@ -37,7 +37,7 @@ author:
   orcid: "https://orcid.org/0000-0001-7932-4670"
   semantic: # URL
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate: # URL
+  researchgate: "https://www.researchgate.net/profile/Jinguo_Sun" # URL
 
   # Repositories and software development
   bitbucket: # Username - Update with your username on the site
