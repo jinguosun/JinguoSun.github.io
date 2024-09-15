@@ -13,4 +13,4 @@ I received my Bachelor (June, 2017) and Ph.D. (June, 2022) degrees from Departme
 
 My current work focuses on plasma-assisted ammonia combustion and non-equilibrium plasma physics, and advanced laser diagnostics.
 
-Download CV [here](https://jinguosun.github.io/files/CV_Jinguo_Sun.pdf).
+<!-- Download CV [here](https://jinguosun.github.io/files/CV_Jinguo_Sun.pdf). -->
