@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2019-07-01-JS-Sun-12ASPACC
 excerpt: # "This paper is about the number 1. The number 2 is left for future work."
 date: 2019-07-01
-venue: "13th Asia-Pacific Conference on Combustion"
+venue: "12th Asia-Pacific Conference on Combustion"
 slidesurl: # "http://academicpages.github.io/files/slides1.pdf"
 paperurl: #
 citation: "Jinguo Sun, Wei Cui, Shuiqing Li*. Large-eddy simulation of premixed swirl flame dynamics under pulsating flow disturbances, <i>12th Asia-Pacific Conference on Combustion</i>, Fukuoka, Japan, 2019." #"Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)."
