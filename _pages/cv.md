@@ -17,24 +17,31 @@ redirect_from:
 
 # Research experience
 
-- Winter 2022 -- present: Postdoctoral researcher
+- Sep 2025 -- present: Alexander von Humboldt Postdoc Fellow
+
+  - Reactive Flows and Diagnostics, Technische Universität Darmstadt, Germany
+  - Research activities: Scientific research in plasma-assieted ammonia combustion and synthesis using advanced laser diagnostics
+  - Mentor: Prof. Andreas Dreizler
+
+- Sep 2022 -- Aug 2025: Postdoctoral researcher
 
   - Division of Combustion Physics, Lund University, Sweden
-  - Duties includes: Scientific research in plasma and combustion studies using advanced laser diagnostics
+  - Research activities: Plasma-assisted ammonia combustion using advanced laser diagnostics
   - Mentor: Docent Andreas Ehn
 
 # Skills
 
-- Chinese (native), English (fluent)
+- Chinese (native), English (fluent), German (A1)
 - Design of combustion and plasma facilities
 - Optical diagnostics
+  - Structured laser illumination  planar imaging (SLIPI)
   - Laser-induced fluorescence (LIF)
   - Tunable diode laser absorption spcetrascopy (TDLAS)
   - Optical emission spectroscopy (OES)
   - Rayleigh scattering (RS)
   - <i>etc.</i>
 - Coding
-  - Python, MATLAB, C++
+  - Python, MATLAB, C++, fortran
   - Combustion and plasma-related softwares: OpenFOAM, Chemkin, Cantera, COMSOL
   - <i>etc.</i>
 
