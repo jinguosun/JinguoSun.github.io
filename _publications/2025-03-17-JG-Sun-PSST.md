@@ -2,7 +2,7 @@
 title: "Fluorescence lifetime imaging of nitric oxide in nanosecond pulsed discharge-assisted NH<sub>3</sub>/air flames"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-03-17-J-Sun-PSST
+permalink: /publication/2025-03-17-JG-Sun-PSST
 excerpt: # "This paper is about the number 1. The number 2 is left for future work."
 date: 2025-03-17
 venue: "Plasma Sources Science and Technology"
@@ -10,6 +10,5 @@ slidesurl: # "http://academicpages.github.io/files/slides1.pdf"
 paperurl: "https://doi.org/10.1088/1361-6595/adbd70" # 'http://academicpages.github.io/files/paper1.pdf'
 citation: "Jinguo Sun*, Sebastian Nilsson, Jonas Ravelid, Yupan Bao, Andreas Ehn. Fluorescence lifetime imaging of nitric oxide in nanosecond pulsed discharge-assisted NH<sub>3</sub>/air flames. <i>Plasma Sources Science and Technology</i> 34.3 (2025): 035011." #"Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)."
 ---
-
 <!-- The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
  -->
