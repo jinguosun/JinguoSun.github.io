@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Jinguo Sun / Dr."
 title_separator: "-"
 name: &name "Jinguo Sun"
-description: &description "Jinguo Sun' homepage"
+description: &description "Jinguo Sun's Homepage"
 url: https://jinguosun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "jinguosun/jinguosun.github.io" # GitHub username/repo-name e.g. "mmistakes/academicpages.github.io"
@@ -86,11 +86,10 @@ publication_category:
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
-future: true
+future: false
 read_more: "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link: false #change to true to add link to talkmap on talks page
 comments:
-  provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider: false # "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname:
   discourse:
@@ -142,9 +141,9 @@ social:
 
 # Analytics
 analytics:
-  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "google-analytics-4" # "google", "google-universal", "custom"
   google:
-    tracking_id:
+    tracking_id: "G-PHZ8ZT6X7J"
 
 # Reading Files
 include:
@@ -202,16 +201,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -225,7 +215,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -235,15 +225,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -252,24 +233,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      comments: false
 
 # Sass/SCSS
 sass:

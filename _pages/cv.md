@@ -11,13 +11,13 @@ redirect_from:
 
 # Education
 
-- Ph.D Department of Energy and Power Engineering, Tsinghua University, 2017-2022
-- Visiting Ph.D, Institute for Combustion Technology, RWTH Aachen University, 2020-2021
-- B.S. Thermal Engineering, Tsinghua University, 2013-2017
+- Ph.D., Department of Energy and Power Engineering, Tsinghua University, 2017-2022
+- Visiting Ph.D. in the Institute for Combustion Technology, RWTH Aachen University, 2020-2021
+- B.S. in Thermal Engineering, Tsinghua University, 2013-2017
 
 # Research experience
 
-- Sep 2025 -- present: Alexander von Humboldt Postdoc Fellow
+- Sep 2025 -- present: Alexander von Humboldt Postdoctoral Fellow
 
   - Reactive Flows and Diagnostics, Technische Universität Darmstadt, Germany
   - Research activities: Scientific research in plasma-assisted ammonia combustion and synthesis using advanced laser diagnostics
@@ -34,14 +34,14 @@ redirect_from:
 - Chinese (native), English (fluent), German (A1)
 - Design of combustion and plasma facilities
 - Optical diagnostics
-  - Structured laser illumination  planar imaging (SLIPI)
+  - Structured laser illumination planar imaging (SLIPI)
   - Laser-induced fluorescence (LIF)
   - Tunable diode laser absorption spectroscopy (TDLAS)
   - Optical emission spectroscopy (OES)
   - Rayleigh scattering (RS)
   - <i>etc.</i>
 - Coding
-  - Python, MATLAB, C++, fortran
+  - Python, MATLAB, C++, Fortran
   - Combustion and plasma-related software: OpenFOAM, Chemkin, Cantera, COMSOL
   - <i>etc.</i>
 
@@ -50,18 +50,6 @@ redirect_from:
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
