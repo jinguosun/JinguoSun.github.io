@@ -20,7 +20,7 @@ redirect_from:
 - Sep 2025 -- present: Alexander von Humboldt Postdoc Fellow
 
   - Reactive Flows and Diagnostics, Technische Universität Darmstadt, Germany
-  - Research activities: Scientific research in plasma-assieted ammonia combustion and synthesis using advanced laser diagnostics
+  - Research activities: Scientific research in plasma-assisted ammonia combustion and synthesis using advanced laser diagnostics
   - Mentor: Prof. Andreas Dreizler
 
 - Sep 2022 -- Aug 2025: Postdoctoral researcher
@@ -36,13 +36,13 @@ redirect_from:
 - Optical diagnostics
   - Structured laser illumination  planar imaging (SLIPI)
   - Laser-induced fluorescence (LIF)
-  - Tunable diode laser absorption spcetrascopy (TDLAS)
+  - Tunable diode laser absorption spectroscopy (TDLAS)
   - Optical emission spectroscopy (OES)
   - Rayleigh scattering (RS)
   - <i>etc.</i>
 - Coding
   - Python, MATLAB, C++, fortran
-  - Combustion and plasma-related softwares: OpenFOAM, Chemkin, Cantera, COMSOL
+  - Combustion and plasma-related software: OpenFOAM, Chemkin, Cantera, COMSOL
   - <i>etc.</i>
 
 # Publications
